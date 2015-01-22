@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   
   s.require_paths = ['lib']
 
-  s.add_runtime_dependency 'factor-connector-api', '~> 0.0.1'
-  s.add_runtime_dependency 'travis', '1.7.2'
+  s.add_runtime_dependency 'factor-connector-api', '~> 0.0.14'
+  s.add_runtime_dependency 'travis', '~> 1.7.5'
 end
