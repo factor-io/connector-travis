@@ -16,7 +16,7 @@ PATH
   remote: .
   specs:
     factor-connector-travis (3.0.0)
-      travis (~> 1.7.5)
+      travis (~> 1.7.6)
 
 GEM
   remote: https://rubygems.org/
