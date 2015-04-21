@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'travis' do
+describe TravisConnectorDefinition do
   it ':: rebuild' do
     expect(true).to be(true)
   end
