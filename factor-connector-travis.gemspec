@@ -3,13 +3,14 @@ $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
   s.name          = 'factor-connector-travis'
-  s.version       = '0.0.2'
+  s.version       = '3.0.0'
   s.platform      = Gem::Platform::RUBY
   s.authors       = ['Maciej Skierkowski']
   s.email         = ['maciej@factor.io']
   s.homepage      = 'https://factor.io'
   s.summary       = 'Travis-CI Factor.io Connector'
-  s.files         = ['lib/factor/connector/travis.rb']
+  s.files         = ['lib/factor-connector-travis.rb']
+  s.license       = 'MIT'
   
   s.require_paths = ['lib']
 

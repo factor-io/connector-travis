@@ -15,7 +15,7 @@ GIT
 PATH
   remote: .
   specs:
-    factor-connector-travis (0.0.2)
+    factor-connector-travis (3.0.0)
       travis (~> 1.7.5)
 
 GEM
