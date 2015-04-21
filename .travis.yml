@@ -3,7 +3,9 @@ rvm:
 - 2.1.3
 env:
   global:
-    secure: llOCLKhFSYRZy1Vt9KEBb2yHHMZvuHsk9qB37xePCjOYol6iuOxJhNgwYo6sz1Ot5+AayI1Fe4xlLBNTRSFyeUTQwzZTVZh86Q/g2NHeJw6RWGLVR5flzvw38MMpdY1K8W/18IDgGMX6DDhDfZxFMPFGSLUtFhD74iEp7dxynYs=
+  - secure: llOCLKhFSYRZy1Vt9KEBb2yHHMZvuHsk9qB37xePCjOYol6iuOxJhNgwYo6sz1Ot5+AayI1Fe4xlLBNTRSFyeUTQwzZTVZh86Q/g2NHeJw6RWGLVR5flzvw38MMpdY1K8W/18IDgGMX6DDhDfZxFMPFGSLUtFhD74iEp7dxynYs=
+  - secure: URLgnxMbVeMJPbNLq/JGJmVEmvvsN9nU6T9ATyKY4CE62UkrzjEjvgdo6Vk1outOqCoS7FidWb48AF2bYiUAWpMi+SCEJQMrthnBE5wdJ/UJMmUi9jWxp4jmKdNgZLadKt52L9IF1g/Yw/YQMFyBWPpd4up3DvCU0EvmOnhAebc=
+  - secure: ZaaxgnH7uGsSijSyEO1JrP8Iz2VXcVVKCWwp4MGcoU3Ni0GkARQooKPtE0/QVuVjVlQF7fbQH1Yhuz8bulmnOQNBNRNJ/5XW/RKT7ParzuCcb1dVTReGJUWSTnBBNyU2umm8DoRHthi6b9U9P8ngZT5iVdvOlKsxw9OjrWC8p3Q=
 deploy:
   provider: rubygems
   gem: factor-connector-travis
